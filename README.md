@@ -7,7 +7,7 @@
  
   
   <p align="center">
-    Desenvolvedor Back End</p>
+    Back-End Developer</p>
  
   
 </div>
@@ -17,7 +17,7 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=viniciuspbrandao&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuspbrandao&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
-</div> 
+</div>
 
 
 <div align="center" valign="top"><br>
@@ -30,11 +30,7 @@
   <a href="mailto:viniciusbrandao.adm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<div align="center">
 
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
 
 <div align="center">
   
