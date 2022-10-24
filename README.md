@@ -3,27 +3,17 @@
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/viniciuspbrandao/badges/)
 
 <div>
-  
- 
-  
-  <p align="center">
-    Back-End Developer</p>
- 
-  
+<p align="center">
+Back-End Developer</p>
 </div>
 
 <div align="center">
   <a href="https://github.com/viniciuspbrandao">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=viniciuspbrandao&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuspbrandao&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciuspbrandao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuspbrandao&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-
-<div align="center" valign="top"><br>
- 
-</div><br>
-
+  
+<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/brandaovinicius/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
